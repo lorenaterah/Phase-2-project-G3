@@ -63,11 +63,11 @@ A simple Linear Regression model was built to predict `worldwide_gross` based on
 
 ## Key Insights
 
-1.  ** Top Genres by Performance:** Action, Adventure, and family-friendly genres (like Animation) consistently dominate the highest grossing films. However, genres like Documentary and Drama achieve the highest average audience ratings.
-2.  ** The Budget Paradox:** Higher production budgets lead to higher absolute profits but a lower Return on Investment (ROI). Mid-budget films often offer the best risk-reward balance.
-3.  ** International Dominance:** Foreign gross revenue is statistically significantly different and often larger than domestic gross. A global appeal is crucial for blockbuster success.
-4.  ** Studio Strategy:** There is no significant difference in average profitability among the top studios. Success is more dependent on project selection than the studio brand alone.
-5.  ** Optimal Release Timing:** May, June, and July are the highest-performing months on average for releasing films, while May, November, and December see the highest total revenues.
+1. **Top Genres by Performance:** Action, Adventure, and family-friendly genres (like Animation) consistently dominate the highest grossing films. However, genres like Documentary and Drama achieve the highest average audience ratings.  
+2. **The Budget Paradox:** Higher production budgets lead to higher absolute profits but a lower Return on Investment (ROI). Mid-budget films often offer the best risk-reward balance.  
+3. **International Dominance:** Foreign gross revenue is statistically significantly different and often larger than domestic gross. A global appeal is crucial for blockbuster success.  
+4. **Studio Strategy:** There is no significant difference in average profitability among the top studios. Success is more dependent on project selection than the studio brand alone.  
+5. **Optimal Release Timing:** May, June, and July are the highest-performing months on average for releasing films, while May, November, and December see the highest total revenues.  
 
 ## Actionable Recommendations
 
@@ -95,7 +95,7 @@ A simple Linear Regression model was built to predict `worldwide_gross` based on
 ## 📊 Tableau Dashboard
 
 For an interactive visualization of these insights, please refer to our Tableau dashboard:
-> **[]**
+> 
 
 ---
 
