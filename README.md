@@ -96,7 +96,7 @@ A simple Linear Regression model was built to predict `worldwide_gross` based on
 ## 📊 Tableau Dashboard
 
 For an interactive visualization of these insights, please refer to our Tableau dashboard:
-> 
+> https://public.tableau.com/app/profile/stephen.muema/viz/MovieIndustryAnalysis_17630239953860/MovieIndustryAnalysis?publish=yes
 
 ---
 
