@@ -88,6 +88,7 @@ A simple Linear Regression model was built to predict `worldwide_gross` based on
 ```
 ├── Data/                           # Raw data files 
 ├── Cleaning_and_Analysis.ipynb     # Main Jupyter Notebook
+├── Notebooks                       # Individual Jupyter notebooks
 ├── README.md                       # Project documentation (this file)
 └── (Cleaned_Data/)                 # Processed datasets (optional)
 ```
